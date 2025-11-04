@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Santiago Echeverri 👋</h1>
+<h1 align="center">Hola, soy Santiago 👋</h1>
 <h3 align="center">Desarrollador de Software | Creador de Contenido | Emprendedor</h3>
 
 ---
